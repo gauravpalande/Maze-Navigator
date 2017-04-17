@@ -1,0 +1,8 @@
+Input: 
+C:\Users\gaura\Desktop\maze1.png
+
+maze.exe C:\Users\gaura\Desktop\maze1.png C:\Users\gaura\Desktop\gap1.png
+Output:
+C:\Users\gaura\Desktop\gap1.png
+
+System.ArgumentException: 'Parameter is not valid.'
